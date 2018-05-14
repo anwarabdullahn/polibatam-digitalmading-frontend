@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "714907343055",
+    "firebase_url": "https://anwarabdullahn-187514.firebaseio.com",
+    "project_id": "anwarabdullahn-187514",
+    "storage_bucket": "anwarabdullahn-187514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714907343055:android:ff9a6b680aa33dc1",
+        "android_client_info": {
+          "package_name": "com.anwarabdullahn.polibatamdigitalmading"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714907343055-n8r46uv9du993bpg964m3d31qrt1c3od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlSrX8HVxiPtj5PQPOewbGqN3U9zF9SNw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

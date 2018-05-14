@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        android:onClick="profile"/>
+    <item
+        android:id="@+id/kategori"
+        android:icon="@drawable/ic_kategori"
+        android:title="Kategori"
+        android:onClick="kategori"/>
+    <item
+        android:id="@+id/jadwal"
+        android:icon="@drawable/ic_jadwal"
+        android:title="Jadwal"
+        android:onClick="jadwal"/>
+    <item
+        android:id="@+id/keluar"
+        android:icon="@drawable/ic_keluar"
+        android:title="Keluar"
+        android:onClick="keluar"/>
+</menu>
